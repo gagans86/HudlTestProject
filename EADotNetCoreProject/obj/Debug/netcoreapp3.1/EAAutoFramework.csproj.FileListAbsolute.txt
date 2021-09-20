@@ -1,0 +1,16 @@
+C:\Users\rohann\Downloads\EADotNetCoreProject\EADotNetCoreProject\EADotNetCoreProject\bin\Debug\netcoreapp3.1\EAAutoFramework.deps.json
+C:\Users\rohann\Downloads\EADotNetCoreProject\EADotNetCoreProject\EADotNetCoreProject\bin\Debug\netcoreapp3.1\EAAutoFramework.dll
+C:\Users\rohann\Downloads\EADotNetCoreProject\EADotNetCoreProject\EADotNetCoreProject\bin\Debug\netcoreapp3.1\EAAutoFramework.pdb
+C:\Users\rohann\Downloads\EADotNetCoreProject\EADotNetCoreProject\EADotNetCoreProject\obj\Debug\netcoreapp3.1\EAAutoFramework.csproj.CoreCompileInputs.cache
+C:\Users\rohann\Downloads\EADotNetCoreProject\EADotNetCoreProject\EADotNetCoreProject\obj\Debug\netcoreapp3.1\EAAutoFramework.AssemblyInfoInputs.cache
+C:\Users\rohann\Downloads\EADotNetCoreProject\EADotNetCoreProject\EADotNetCoreProject\obj\Debug\netcoreapp3.1\EAAutoFramework.AssemblyInfo.cs
+C:\Users\rohann\Downloads\EADotNetCoreProject\EADotNetCoreProject\EADotNetCoreProject\obj\Debug\netcoreapp3.1\EAAutoFramework.dll
+C:\Users\rohann\Downloads\EADotNetCoreProject\EADotNetCoreProject\EADotNetCoreProject\obj\Debug\netcoreapp3.1\EAAutoFramework.pdb
+C:\Users\gagan.singh\Documents\Proj\audene_test\EADotNetCoreProject\bin\Debug\netcoreapp3.1\EAAutoFramework.deps.json
+C:\Users\gagan.singh\Documents\Proj\audene_test\EADotNetCoreProject\bin\Debug\netcoreapp3.1\EAAutoFramework.dll
+C:\Users\gagan.singh\Documents\Proj\audene_test\EADotNetCoreProject\bin\Debug\netcoreapp3.1\EAAutoFramework.pdb
+C:\Users\gagan.singh\Documents\Proj\audene_test\EADotNetCoreProject\obj\Debug\netcoreapp3.1\EAAutoFramework.AssemblyInfoInputs.cache
+C:\Users\gagan.singh\Documents\Proj\audene_test\EADotNetCoreProject\obj\Debug\netcoreapp3.1\EAAutoFramework.AssemblyInfo.cs
+C:\Users\gagan.singh\Documents\Proj\audene_test\EADotNetCoreProject\obj\Debug\netcoreapp3.1\EAAutoFramework.csproj.CoreCompileInputs.cache
+C:\Users\gagan.singh\Documents\Proj\audene_test\EADotNetCoreProject\obj\Debug\netcoreapp3.1\EAAutoFramework.dll
+C:\Users\gagan.singh\Documents\Proj\audene_test\EADotNetCoreProject\obj\Debug\netcoreapp3.1\EAAutoFramework.pdb

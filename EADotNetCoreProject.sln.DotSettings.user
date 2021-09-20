@@ -1,0 +1,11 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=378412c4_002Df923_002D4601_002D9a17_002D79360649e186/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetNext" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6124621E-9445-4ECC-B83A-B85AE07C99DF::.NETCoreApp,Version=v3.1::CrossPlatformEATest.Pages.LoanPage.GetNext&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3d8ed325_002Dba88_002D4dd7_002Db624_002D469537a6844a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetNext #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6124621E-9445-4ECC-B83A-B85AE07C99DF::.NETCoreApp,Version=v3.1::CrossPlatformEATest.Pages.LoanPage.GetNext&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
