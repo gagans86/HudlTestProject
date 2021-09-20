@@ -5,8 +5,13 @@ To run these scenarios, you need to do following steps:
 
 2) Run following commands in different commands console
 
-to set up hub : 
-to setup  node : 
+to set up node : java -jar selenium-server-standalone-3.141.59.jar -role node -hub http://192.168.1.47:4444:4444/grid/register -browser "browserName=chrome,max Instances=3" -browser "browserName=chrome,maxInstances=3" -browser "browserName=safari,maxInstances=1"
+
+pleae use url local IP address
+
+
+to setup  hub : java -jar selenium-server-standalone-3.141.59.jar -role hub
+
 
 3) Open the class TestInitializeHook in Base folder
 
