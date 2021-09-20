@@ -12,5 +12,7 @@ to setup  node :
 
 4) _parallelConfig.Driver = new RemoteWebDriver(new Uri("http://192.168.1.47:4444/wd/hub"), driverOptions.ToCapabilities());
 
-5) Change the uri address to your localhost i.e http://{your IP address}.com:4444/wd/hub or your machine ip.
+5) Change the url address to your localhost i.e http://{your IP address}.com:4444/wd/hub or your machine ip.
+
+Java is must, please install JAVA
 
